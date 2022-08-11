@@ -1,0 +1,18 @@
+header{
+    background-color: lightblue;
+    position: fixed;
+    width:1366px;
+    height: 56px;
+    margin: 0 auto;
+    top: 0;
+z-index: 1;
+h1{
+color: orangered;
+
+}
+nav ul li{
+    margin-left: 2,5em;
+}
+nav.nav-sticky{
+    position: -webkit-sticky;
+}
